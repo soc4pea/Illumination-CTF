@@ -1,1 +1,1 @@
-Cooking Recipe:ROT47_Bifid Cipher_Base64["A-Za-z0-9+/="]
+Cooking Recipe:ROT47_Bifid_Rail Fence_Base64["A-Za-z0-9+/="]
