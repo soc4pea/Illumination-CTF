@@ -1,1 +1,0 @@
-Recipe:[{"op":"ROT47","args":[47]},{"op":"Bifid Cipher Decode","args":[""]},{"op":"Rail Fence Cipher Decode","args":[2,0]},{"op":"From Base64","args":["A-Za-z0-9+/=",true]}]

@@ -1,0 +1,1 @@
+Cooking Recipe:ROT47_Bifid Cipher_Base64["A-Za-z0-9+/="]
