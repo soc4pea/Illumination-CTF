@@ -1,2 +1,2 @@
-# Illumination-CTF
+# PEA-CTF
 Find something.
